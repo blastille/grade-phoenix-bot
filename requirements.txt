@@ -1,5 +1,5 @@
 python-telegram-bot[webhooks]==20.7
-aiohttp==3.12.14
+aiohttp==3.13.3
 requests==2.32.4
 beautifulsoup4==4.12.2
 pytz==2023.3
